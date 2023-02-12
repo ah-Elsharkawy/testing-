@@ -1,0 +1,14 @@
+{
+  "name": "css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "shark",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.4.2"
+  }
+}
